@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio – AI Prompt Engineer & Web Developer
 
-Welcome to my personal portfolio! This repository showcases my work, skills, and passion for building intelligent and visually engaging web experiences. Whether you're here to explore my AI prompt engineering projects or dive into my full-stack web development work, you're in the right place.
+Welcome to my personal portfolio! This repository showcases my work, skills, and passion for building intelligent and visually engaging web experiences. Whether you're here to explore my AI prompt engineering projects or dive into my full-stack web development work,“You’re in the right place — feel free to connect with me. You never know where life might take us.”
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ I'm a multidisciplinary developer with expertise in:
 - 🤖 **AI Prompt Engineering** – Crafting effective prompts for intelligent systems like Microsoft Copilot
 - 🌐 **Web Development** – Building responsive, dynamic websites using:
   - **Python Flask**
-  - **HTML / CSS**
+  - **HTML / CSS3** / Javascript
   - **MySQL**
   - **WordPress & OpenCart**
 - 🧪 **Rapid Prototyping** – Using platforms like **Replit** for fast iteration and deployment
@@ -21,8 +21,7 @@ This portfolio includes:
 
 - AI prompt engineering examples and prompt design strategies
 - Flask-based web apps with backend integration
-- Custom WordPress themes and OpenCart modules
-- Front-end designs using HTML/CSS
+- Front-end designs using HTML/CSS3
 - Database-driven applications using MySQL
 
 ## 🧰 Tech Stack
@@ -31,10 +30,9 @@ This portfolio includes:
 |------------------|-----------------------------------------------|
 | AI & Automation  | Microsoft Copilot, Prompt Design              |
 | Backend          | Python, Flask, MySQL                          |
-| Frontend         | HTML, CSS                                     |
+| Frontend         | HTML, CSS3, Bootstrape                                    |
 | CMS & E-Commerce | WordPress, OpenCart, Joomla                         |
-| Dev Tools        | GitHub, Replit                                |
-
+| Dev Tools        | GitHub, Replit, 
 ## 📦 Installation
 
 To run locally:
