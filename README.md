@@ -32,7 +32,7 @@ This portfolio includes:
 | AI & Automation  | Microsoft Copilot, Prompt Design              |
 | Backend          | Python, Flask, MySQL                          |
 | Frontend         | HTML, CSS                                     |
-| CMS & E-Commerce | WordPress, OpenCart                           |
+| CMS & E-Commerce | WordPress, OpenCart, Joomla                         |
 | Dev Tools        | GitHub, Replit                                |
 
 ## 📦 Installation
