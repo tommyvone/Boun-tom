@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio – AI Prompt Engineer & Web Developer
 
-Welcome to my personal portfolio! This repository showcases my work, skills, and passion for building intelligent and visually engaging web experiences. Whether you're here to explore my AI prompt engineering projects or dive into my full-stack web development work,“You’re in the right place — feel free to connect with me. You never know where life might take us.”
+Welcome to my personal portfolio! This repository showcases my work, skills, and passion for building intelligent and visually engaging web experiences. Whether you're here to explore my AI prompt engineering projects or dive into my full-stack web development work, You’re in the right place — feel free to connect with me. You never know where life might take us.
 
 ## 🚀 About Me
 
